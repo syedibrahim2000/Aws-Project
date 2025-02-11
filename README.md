@@ -10,7 +10,6 @@ Services Used:
 Project Details Steps (as Completed by Me):
 
 1.	Infrastructure Setup:
-
 o	Deployed an Apache web server on an EC2 instance for the web application.
 o	Configured S3 for file storage, where the main files were synced to the EC2 instance.
 o	Attached an EBS volume to the EC2 instance for processing files that required persistent storage.
