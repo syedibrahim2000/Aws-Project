@@ -1,4 +1,3 @@
-##Full Monitoring Project
 Project Abstract:
 The project focused on setting up a robust monitoring and logging system for a web application deployed on AWS for client XYZ. The application was hosted on an Apache web server within an EC2 instance, with supporting infrastructure using Amazon S3, EBS. The web server in EC2 accessed files stored in S3, with an additional EBS volume for persistent data processing, Key metrics were collected from each AWS resource, forming the basis for a comprehensive dashboard for continuous monitoring and alerts. Additionally, AWS CloudTrail was configured to track API calls and user activity, while AWS Config monitored resource configuration changes to enhance compliance and governance.
 Services Used:
